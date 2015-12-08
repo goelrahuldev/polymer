@@ -1,0 +1,18 @@
+{
+  "name": "Todo",
+  "homepage": "https://github.com/goelrahuldev/polymer",
+  "authors": [
+    "goelrahuldev <rahul.g2510@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
